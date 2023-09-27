@@ -11,13 +11,15 @@ The following **required** functionality is completed:
 
 Here's a walkthrough of implemented user stories:
 <p>
-
+<img src="https://github.com/ShivangeeRajput/MangaX/assets/100294737/ccbeabf8-0370-4308-9019-25fa076c26d0.gif" height="500">
   
 </p>
 ## Screenshots
 <p>
 <img src="https://github.com/ShivangeeRajput/MangaX/assets/100294737/18cea7ad-45d0-41eb-824c-bbd9e4036805.jpg" height="500">
 <img src="https://github.com/ShivangeeRajput/MangaX/assets/100294737/46bc4e2d-c48e-4193-b378-a92e5f3c0bc4.jpg" height="500">
+<img src="https://github.com/ShivangeeRajput/MangaX/assets/100294737/609ba9c6-948f-4533-a0bd-d11712f12b75.jpg" height="500">
+<img src="https://github.com/ShivangeeRajput/MangaX/assets/100294737/13226373-d415-4b19-b351-a171ae09bf73.jpg" height="500">
 <img src="https://user-images.githubusercontent.com/100294737/230757793-603db203-087d-4856-8762-fe2d7565218d.jpg"  height="500">
 <img src="https://github.com/ShivangeeRajput/MangaX/assets/100294737/e83e6d0f-9563-4473-bd5b-9e1f5890dd0b.jpg"  height="500">
 <img src="https://github.com/ShivangeeRajput/MangaX/assets/100294737/49e59f9f-dc81-43fc-abd7-31f4045874bf.jpg" height="500">

@@ -1,20 +1,19 @@
 # MangaX
-A simple Book App for Manga Lovers.
+A Simple Book App for Manga Lovers.
 
 The following **required** functionality is completed:
 * [x] The user can click on any book for book description.
 * [x] User can read any book by clicking on Read Book.
 
 
-
 ## Video Walkthrough
 
 Here's a walkthrough of implemented user stories:
-<p>
-<img src="https://github.com/ShivangeeRajput/MangaX/assets/100294737/ccbeabf8-0370-4308-9019-25fa076c26d0.gif" height="500">
-  
-</p>
+
+<img src="https://github.com/ShivangeeRajput/MangaX/assets/100294737/ccbeabf8-0370-4308-9019-25fa076c26d0.gif" height="500">  
+
 ## Screenshots
+
 <p>
 <img src="https://github.com/ShivangeeRajput/MangaX/assets/100294737/18cea7ad-45d0-41eb-824c-bbd9e4036805.jpg" height="500">
 <img src="https://github.com/ShivangeeRajput/MangaX/assets/100294737/46bc4e2d-c48e-4193-b378-a92e5f3c0bc4.jpg" height="500">

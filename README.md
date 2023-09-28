@@ -2,7 +2,7 @@
 A simple Book App for Manga Lovers.
 
 The following **required** functionality is completed:
-* [x] The user can click on any book.
+* [x] The user can click on any book for book description.
 * [x] User can read any book by clicking on Read Book.
 
 

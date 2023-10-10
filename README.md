@@ -27,5 +27,9 @@ Here's a walkthrough of implemented user stories:
 <img src="https://github.com/ShivangeeRajput/MangaX/assets/100294737/a2478651-ab25-484b-a1fe-fea5869d0bf9.jpg"  height="500">
 <img src="https://github.com/ShivangeeRajput/MangaX/assets/100294737/b5a9488e-c92e-4d83-a221-c1b2fd61c6df.jpg"  height="500">
 <img src="https://github.com/ShivangeeRajput/MangaX/assets/100294737/6b664cb8-4d19-4951-a86f-2eb1f91aa061.jpg"  height="500">
+<img src="https://github.com/ShivangeeRajput/MangaX/assets/100294737/3611af3f-29af-4eff-986c-a11d1c7ad0b0.jpg"  height="500">
+<img src="https://github.com/ShivangeeRajput/MangaX/assets/100294737/49d363c5-1e57-493b-8759-4e05fb35484b.jpg"  height="500">
+<img src="https://github.com/ShivangeeRajput/MangaX/assets/100294737/723120b1-ad98-472d-86bd-4f51adf55c0e.jpg"  height="500">
+<img src="https://github.com/ShivangeeRajput/MangaX/assets/100294737/4ac3ab04-6f0e-43b6-844f-9029a817bc1a.jpg"  height="500">
 
 </p>

@@ -33,3 +33,23 @@ Here's a walkthrough of implemented user stories:
 <img src="https://github.com/ShivangeeRajput/MangaX/assets/100294737/4ac3ab04-6f0e-43b6-844f-9029a817bc1a.jpg"  height="500">
 
 </p>
+
+## Notes
+
+Describe any challenges encountered while building the app.
+
+## License
+
+    Copyright [2023] [Shivangee Rajput]
+
+    Licensed under the Apache License, Version 2.0 (the "License");
+    you may not use this file except in compliance with the License.
+    You may obtain a copy of the License at
+
+        http://www.apache.org/licenses/LICENSE-2.0
+
+    Unless required by applicable law or agreed to in writing, software
+    distributed under the License is distributed on an "AS IS" BASIS,
+    WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+    See the License for the specific language governing permissions and
+    limitations under the License.

@@ -3,7 +3,7 @@ package com.NewPackage.bookify
 import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle
 import android.view.WindowManager
-import com.devatrii.bookify.databinding.ActivityPdfBinding
+import com.bookify.databinding.ActivityPdfBinding
 
 class PdfActivity : AppCompatActivity() {
     val activity = this

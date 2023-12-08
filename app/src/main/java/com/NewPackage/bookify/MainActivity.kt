@@ -2,8 +2,8 @@ package com.NewPackage.bookify
 
 import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle
-import com.devatrii.bookify.R
-import com.devatrii.bookify.databinding.ActivityMainBinding
+import com.bookify.R
+import com.bookify.databinding.ActivityMainBinding
 
 class MainActivity : AppCompatActivity() {
     lateinit var binding: ActivityMainBinding

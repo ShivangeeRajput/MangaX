@@ -3,7 +3,7 @@ package com.NewPackage.bookify
 import android.content.Intent
 import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle
-import com.devatrii.bookify.databinding.ActivityDetailsBinding
+import com.bookify.databinding.ActivityDetailsBinding
 
 class DetailsActivity : AppCompatActivity() {
     val activity = this

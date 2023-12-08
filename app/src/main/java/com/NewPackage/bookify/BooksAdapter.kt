@@ -7,7 +7,7 @@ import android.view.LayoutInflater
 import android.view.ViewGroup
 import androidx.core.app.ActivityOptionsCompat
 import androidx.recyclerview.widget.RecyclerView
-import com.devatrii.bookify.databinding.LayoutHomeBinding
+import com.bookify.databinding.LayoutHomeBinding
 
 class BooksAdapter(val list:ArrayList<BooksModel>, val context: Context):RecyclerView.Adapter<BooksAdapter.ViewHolder>() {
 

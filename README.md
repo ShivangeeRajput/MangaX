@@ -1,5 +1,4 @@
-# MangaX
-A Simple Book App for Manga Lovers.
+## Introducing  MangaX a user-friendly book app designed specifically for manga aficionados. With just a tap, dive into your favorite manga and immerse yourself in captivating stories and stunning artwork.
 
 The following **required** functionality is completed:
 * [x] The user can click on any book for book description.

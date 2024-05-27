@@ -1,9 +1,10 @@
-package com.NewPackage.bookify
+package com.NewPackage.mangax
 
 import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle
 import android.view.WindowManager
-import com.bookify.databinding.ActivityPdfBinding
+import com.NewPackage.managax.databinding.ActivityPdfBinding
+
 
 class PdfActivity : AppCompatActivity() {
     val activity = this

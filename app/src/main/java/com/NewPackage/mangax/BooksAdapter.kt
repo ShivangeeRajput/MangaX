@@ -1,4 +1,4 @@
-package com.NewPackage.bookify
+package com.NewPackage.mangax
 
 import android.app.Activity
 import android.content.Context
@@ -7,11 +7,12 @@ import android.view.LayoutInflater
 import android.view.ViewGroup
 import androidx.core.app.ActivityOptionsCompat
 import androidx.recyclerview.widget.RecyclerView
-import com.bookify.databinding.LayoutHomeBinding
+import com.NewPackage.managax.databinding.LayoutHomeBinding
+
 
 class BooksAdapter(val list:ArrayList<BooksModel>, val context: Context):RecyclerView.Adapter<BooksAdapter.ViewHolder>() {
 
-    class ViewHolder (val binding:LayoutHomeBinding):RecyclerView.ViewHolder(binding.root)
+    class ViewHolder (val binding: LayoutHomeBinding):RecyclerView.ViewHolder(binding.root)
 
     override fun onCreateViewHolder(parent: ViewGroup, viewType: Int): ViewHolder {
        return ViewHolder(LayoutHomeBinding.inflate(LayoutInflater.from(context),parent,false))

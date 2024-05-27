@@ -1,9 +1,10 @@
-package com.NewPackage.bookify
+package com.NewPackage.mangax
 
 import android.content.Intent
 import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle
-import com.bookify.databinding.ActivityDetailsBinding
+import com.NewPackage.managax.databinding.ActivityDetailsBinding
+
 
 class DetailsActivity : AppCompatActivity() {
     val activity = this

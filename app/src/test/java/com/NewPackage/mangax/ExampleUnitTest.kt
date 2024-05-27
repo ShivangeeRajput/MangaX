@@ -1,4 +1,4 @@
-package com.devatrii.bookify
+package com.NewPackage.mangax
 
 import org.junit.Test
 

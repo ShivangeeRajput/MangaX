@@ -4,7 +4,7 @@ plugins {
 }
 
 android {
-    namespace 'com.devatrii.bookify'
+    namespace 'com.NewPackage.managax'
     compileSdk 33
 
     defaultConfig {

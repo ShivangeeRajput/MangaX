@@ -12,13 +12,13 @@
         android:theme="@style/Theme.Bookify"
         tools:targetApi="31">
         <activity
-            android:name="com.NewPackage.bookify.PdfActivity"
+            android:name="com.NewPackage.mangax.PdfActivity"
             android:exported="false" />
         <activity
-            android:name="com.NewPackage.bookify.DetailsActivity"
+            android:name="com.NewPackage.mangax.DetailsActivity"
             android:exported="false" />
         <activity
-            android:name="com.NewPackage.bookify.MainActivity"
+            android:name="com.NewPackage.mangax.MainActivity"
             android:exported="true">
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />

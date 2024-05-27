@@ -1,4 +1,4 @@
-package com.devatrii.bookify
+package com.NewPackage.mangax
 
 import androidx.test.platform.app.InstrumentationRegistry
 import androidx.test.ext.junit.runners.AndroidJUnit4

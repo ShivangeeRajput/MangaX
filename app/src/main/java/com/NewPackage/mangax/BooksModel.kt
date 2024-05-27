@@ -1,4 +1,4 @@
-package com.NewPackage.bookify
+package com.NewPackage.mangax
 
 data class BooksModel(
     val image: Int,
